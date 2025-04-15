@@ -36,28 +36,9 @@ Our implementation builds on the framework introduced in the Nature paper, which
 
 ## Repository Structure
 
-```
-Quantum-inspired-Evolutionary-Algorithms/
-├── evaluation/
-│ ├── titanic_dataset.ipynb # Demo notebook using the Titanic dataset
-│ └── synthetic_dataset.ipynb # Demo notebook using a synthetic dataset
-├── evo_learn/
-│ └── qiea_logistic_regression.py # QIEA applied to logistic regression
-├── paper_implementation/
-│ └── qiaea_core.py # Core QIAEA implementation adapted from the paper
-├── hyperparameter_tuning/
-│ └── qiea_hyperopt.py # QIEA-based hyperparameter tuning module
-├── tests/
-│ └── test_qiea.py # Unit tests for various modules
-├── README.md
-└── requirements.txt # Dependencies list
-```
-
 - **evaluation/**: Contains demo notebooks.
 - **evo_learn/**: Hosts the QIEA-based logistic regression module.
 - **paper_implementation/**: Contains code adapted from the original QIAEA paper.
-- **hyperparameter_tuning/**: Implements QIEA-driven hyperparameter optimization.
-- **tests/**: Unit tests to ensure code functionality.
 
 ---
 
