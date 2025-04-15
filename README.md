@@ -19,7 +19,6 @@ This repository contains implementations of quantum-inspired evolutionary algori
 - [Demos](#demos)
 - [Algorithm Details](#algorithm-details)
 - [Experimental Results](#experimental-results)
-- [Contributing](#contributing)
 - [License](#license)
 - [References](#references)
 
